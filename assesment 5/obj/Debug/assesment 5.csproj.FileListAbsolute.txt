@@ -1,0 +1,3 @@
+E:\my details\personal\c sharp\day4\assesment 5\assesment 5\obj\Debug\assesment 5.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\day4\assesment 5\assesment 5\obj\Debug\assesment 5.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\day4\assesment 5\assesment 5\obj\Debug\assesment 5.csproj.CoreCompileInputs.cache
